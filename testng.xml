@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="ExitoAutomationTest">
+        <classes>
+            <class name="com.automator.tests.ExitoAutomationTest" />
+        </classes>
+    </test>
+</suite>
